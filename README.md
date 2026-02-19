@@ -1,4 +1,5 @@
 <img width="1024" height="1024" alt="ChatGPT Image 19 Şub 2026 16_38_11" src="https://github.com/user-attachments/assets/774f7903-ffce-480f-83cf-30d8c444d805" />
+
 # Office-Activator-Ohook-GUI
 Office OHook GUI – Microsoft Office Permanent Activator
 ────────────────────────────────────────────────────────
