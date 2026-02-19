@@ -56,3 +56,7 @@ Common issues & fixes:
 
 Enjoy activated Office 😄  
 (but remember: supporting developers with a real license is always the best choice!)
+
+DONATE :bc1qla5zvfzh0rqvj8czg7fdc0txxvplcfm6m2qghr
+<img width="202" height="204" alt="image" src="https://github.com/user-attachments/assets/eb1e82fa-9726-4c27-ab89-f9ef5bdc9541" />
+
