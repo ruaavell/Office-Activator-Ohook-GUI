@@ -1,6 +1,7 @@
 # Office-Activator-Ohook-GUI
 Office OHook GUI – Microsoft Office Permanent Activator
 ────────────────────────────────────────────────────────
+<img width="940" height="627" alt="image" src="https://github.com/user-attachments/assets/a53fd41f-9332-4d9b-8a81-eb61c1fc3a58" />
 
 This is a simple graphical user interface (GUI) tool written in Python that uses the OHook method to **permanently activate** Microsoft Office 2016, 2019, 2021, 2024, and Microsoft 365 (most desktop/click-to-run versions).
 
